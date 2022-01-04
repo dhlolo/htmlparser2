@@ -1,4 +1,6 @@
-# htmlparser2
+# htmlparser3
+
+Forked from htmlparser2 and add some logic to solve wxml parse problem
 
 [![NPM version](http://img.shields.io/npm/v/htmlparser2.svg?style=flat)](https://npmjs.org/package/htmlparser2)
 [![Downloads](https://img.shields.io/npm/dm/htmlparser2.svg?style=flat)](https://npmjs.org/package/htmlparser2)

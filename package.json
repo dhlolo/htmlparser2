@@ -1,8 +1,9 @@
 {
-    "name": "htmlparser2",
-    "description": "Fast & forgiving HTML/XML parser",
+    "name": "htmlparser3",
+    "description": "Forked from htmlparser2 and add some logic to solve wxml parse problem",
     "version": "7.2.0",
-    "author": "Felix Boehm <me@feedic.com>",
+    "original author": "Felix Boehm <me@feedic.com>",
+    "author": "dhlolo <casablanca.lic66@gmail.com",
     "funding": [
         "https://github.com/fb55/htmlparser2?sponsor=1",
         {
@@ -24,7 +25,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/fb55/htmlparser2.git"
+        "url": "https://github.com/dhlolo/htmlparser2/tree/selfpub-wxml"
     },
     "directories": {
         "lib": "lib/"
