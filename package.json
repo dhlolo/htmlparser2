@@ -1,5 +1,5 @@
 {
-    "name": "htmlparser3",
+    "name": "htmlparser2-wxml",
     "description": "Forked from htmlparser2 and add some logic to solve wxml parse problem",
     "version": "0.0.1",
     "original author": "Felix Boehm <me@feedic.com>",
